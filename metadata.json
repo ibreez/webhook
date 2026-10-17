@@ -1,0 +1,6 @@
+{
+  "name": "Ewity Kitchen Watchdog",
+  "description": "Professional restaurant POS monitoring dashboard prototype for tracking active orders, KOT confirmation timeouts, and kitchen delays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
